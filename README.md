@@ -6,11 +6,11 @@ Payment system with Cloudflare workers and CDN Javascript that free for u all to
 
 [https://github.com/Tsukinatsune/Payment-with-Cloudflare-workers/blob/main/Angpao.js](https://github.com/Tsukinatsune/Payment-with-Cloudflare-workers/blob/main/Angpao.js)
 
-+ Promptpay QR generator 
++ Promptpay generator 
 
 [https://github.com/Tsukinatsune/CDN-Javascript-project/blob/main/promptpay_encoder.js](https://github.com/Tsukinatsune/CDN-Javascript-project/blob/main/promptpay_encoder.js)
 
-+ Truemoney QR generator 
++ Truemoney generator 
 
 [https://github.com/Tsukinatsune/CDN-Javascript-project/blob/main/truemoney-wallet-encoder.js](https://github.com/Tsukinatsune/CDN-Javascript-project/blob/main/truemoney-wallet-encoder.js)
 
